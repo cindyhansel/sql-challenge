@@ -23,3 +23,6 @@ Import each CSV file into its corresponding SQL table.
 6.	List each employee in the Sales department, including their employee number, last name, and first name.
 7.	List each employee in the Sales and Development departments, including their employee number, last name, first name, and department name.
 8.	List the frequency counts, in descending order, of all the employee last names (that is, how many employees share each last name).
+
+#### From QuickDBD:
+![QuickDBD-export](https://github.com/cindyhansel/sql-challenge/assets/145402750/d77bffc9-a956-429d-9a3d-f9902fd8576e)
